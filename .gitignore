@@ -1,0 +1,5 @@
+/runs/
+images/*
+weights/*
+!images/placeholder.txt
+!weights/placeholder.txt
